@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpt:home|Door43 (mpt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpt|d43-mpt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpt/archive/master.zip|d43-mpt.zip]]
+
+**Recent Changes**
+{{changes>ns = mpt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpt|Ethnologue data]]
+
